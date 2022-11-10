@@ -5,7 +5,7 @@ body {
   line-height: 1.6em;
   color: #2A2626;
 }
-header, footer, main, section {
+div {
   padding-top: 100px;
   padding-bottom: 100px;
   max-width: 1100px;
